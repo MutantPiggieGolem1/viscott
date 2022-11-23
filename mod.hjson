@@ -1,0 +1,8 @@
+name: "viscott"
+displayName: "Project Viscott"
+author: Pew&Siede
+description: "-"
+version: "0.0.1"
+minGameVersion: "140.4"
+dependencies: [ ]
+hidden: false
